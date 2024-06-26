@@ -156,6 +156,7 @@
 .header_image img{
     width: 400px;
     margin-inline: auto;
+    text-align: center;
 }
 
 .header_content h1{
